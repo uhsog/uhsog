@@ -24,6 +24,8 @@ I'm passionate about building efficient applications and crafting a personalized
 - **Frameworks:** Ruby on Rails
 - **Editor:** Neovim
 
+<!--
 ### 📊 GitHub Stats
 ![SHUHEI's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhsog&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhsog&layout=compact&theme=radical)
+-->
